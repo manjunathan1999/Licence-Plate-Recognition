@@ -1,7 +1,7 @@
 # Licence-Plate-Recognition
 
 ## Description
-This project is a face recognition system that uses OpenCV and dlib to detect faces in real-time. The system can be used to recognize faces in images or videos, and can be used for a variety of applications such as security, surveillance, and more.
+This project is a License Plate Recognition System that uses OpenCV and pytesseract to detect and recognize license plates in real-time. The system can be used for various applications such as traffic monitoring, parking management, and vehicle tracking.
 
 ## Clone the repository
     git clone https://github.com/manjunathan1999/Licence-Plate-Recognition.git
