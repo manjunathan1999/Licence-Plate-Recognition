@@ -1,7 +1,8 @@
 # Licence-Plate-Recognition
 
 ## Description
-    This project is a face recognition system that uses OpenCV and dlib to detect faces in real-time. The system can be used to recognize faces in images or videos, and can be used for a variety of applications such as security, surveillance, and more.
+    This project is a face recognition system that uses OpenCV and dlib to detect faces in real-time. 
+    The system can be used to recognize faces in images or videos, and can be used for a variety of applications such as security, surveillance, and more.
 
 ## Clone the repository
     git clone https://github.com/manjunathan1999/Licence-Plate-Recognition.git
